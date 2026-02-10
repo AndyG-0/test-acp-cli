@@ -1,5 +1,5 @@
 ---
-name: GitHub Folder Skill
+name: GitHub Test Folder Skill
 description: A sample skill in the .github folder for testing purposes
 author: Test Team
 version: 1.0.0
